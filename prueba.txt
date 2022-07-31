@@ -1,0 +1,5 @@
+            ON                          OFF                   ABIERTA                       CERRADA            REMOTO
+ 
+   Switch de Bajo Nivel       Switch de Alto NIvel        Valvula de servicio        Valvula de desvio        Modo Bomba
+
+(ON= Agua, Off=Vacio)  (ON= Desbordar, OFF= Normal)   (ABIERTA / CERRADA)      (ABIERTA / CERRADA)          (LOCAL / REMOTO)
